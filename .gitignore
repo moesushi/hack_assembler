@@ -1,0 +1,4 @@
+*.hack
+*.asm
+logs/
+myeasylog.log
